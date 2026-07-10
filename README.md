@@ -1,3 +1,3 @@
 # Learning C++
 
-![image](https://raw.githubusercontent.com/SansDev-Comunity/.github/refs/heads/main/profile/Untitled%20(7).png)
+![image](https://raw.githubusercontent.com/SansDev-Comunity/Learning-CPP/refs/heads/main/C%2B%2B.png)
